@@ -1,0 +1,89 @@
+#Home {
+  background-image: url(https://images.unsplash.com/photo-1428908728789-d2de25dbd4e2?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+  height: 100vh;
+  border-bottom: 2px #083344 solid;
+}
+
+.navbar-nav {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.nav-link {
+  color: #083344;
+}
+
+.nav-link:hover {
+  border-bottom: #083344 1px solid;
+  border-top: #083344 1px solid;
+}
+.welcome {
+  color: #083344;
+  font-weight: bold;
+  margin-top: 70px;
+}
+
+.my-name {
+  font-size: 40px;
+  color: #083344;
+}
+.stat {
+  font-size: 20px;
+}
+
+.btn {
+  color: black;
+  font-weight: bold;
+}
+.btn:visited {
+  color: #083344;
+  font-weight: bold;
+}
+.btn:hover {
+  color: #083344be;
+  font-weight: bold;
+}
+
+.btn:active {
+  font-weight: bold;
+}
+
+.about-cont {
+  background-color: white;
+  color: #083344;
+  box-shadow: 1px 1px 8px black;
+  border-left: 7px #083344 solid;
+}
+
+.About-me {
+  font-size: 40px;
+}
+
+.about-p {
+  text-align: justify;
+}
+
+h2 {
+  color: #083344;
+}
+
+h3 {
+  color: #083344;
+}
+
+.project-intro {
+  text-align: justify;
+}
+
+.card {
+  box-shadow: 1px 1px 8px black;
+  border: 1px solid #083344;
+}
+
+.card-body {
+  box-shadow: 1px 1px 8px black;
+}
+
+.form {
+  color: #083344;
+}
